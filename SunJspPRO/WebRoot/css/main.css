@@ -1,0 +1,177 @@
+@charset "utf-8";
+.文字1 {
+	font-size: 17px;
+	font-weight: 300;
+	color: #333;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.文字2 {
+	font-size: 17px;
+	font-weight: 300;
+	color: #00398E;
+	text-decoration: none;
+}
+.文字3 {
+	font-size: 20px;
+	font-weight: 600;
+	margin-top: 3px;
+	float: left;
+	margin-left: 10px;
+	width: 70%;
+}
+.文字4 {
+	font-size: 16px;
+	font-weight: 700;
+	color: #0073BF;
+	text-decoration: none;
+}
+
+#横条 {
+	height: 30px;
+	width: 100%;
+	background-color: #E7E7E7;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
+.更多 {
+	float: right;
+	font-size: 15px;
+	font-weight: 500;
+	color: #06C;
+	margin-top: 5px;
+	width: 10%;
+	margin-right: 2px;
+}
+.图片 {
+	float: left;
+	margin-top: 10px;
+	margin-left: 47px;
+	text-align: center;
+	height: 100px;
+	width: 170px;
+}
+.排序 {
+	width: 70%;
+	margin-top: 8px;
+	height: 25px;
+	float: left;
+	margin-left: 10px;
+}
+
+.时间 {
+	float: right;
+	margin-top: 1px;
+	margin-right: 10px;
+}
+
+
+
+
+
+
+
+#main {
+	width: 85%;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+#main #banner {
+	height: 150px;
+	width: 100%;
+	background-color: #FFF;
+	background-image: url(../images/banner.jpg);
+}
+#main #导航 {
+	background-color: #E7E7E7;
+	float: left;
+	height: 30px;
+	width: 100%;
+		margin-top: 5px;
+	border: 2px solid #CCC;
+}
+#main #您的位置 {
+	float: left;
+	height: 30px;
+	width: 100%;
+	background-color: #E7E7E7;
+	margin-top: 5px;
+	border: 2px solid #CCC;
+}
+#main #左侧 {
+	float: left;
+	width: 74%;
+	margin-top: 1%;
+}
+#main #左侧 #最新公告 {
+	height: 30px;
+	width: 100%;
+	float: left;
+	border: 2px solid #FAFE47;
+	background-color: #FCFDD2;
+}
+#main #左侧 #课程简介 {
+	float: left;
+	height: 180px;
+	width: 100%;
+	margin-top: 5px;
+	border: 2px solid #CCC;
+}
+#main #左侧 #教与学 {
+	float: left;
+	width: 100%;
+	height: 200px;
+	margin-top: 5px;
+	border: 2px solid #CCC;
+}
+#main #左侧 #学习宝典 {
+	width: 50%;
+	border: 2px solid #CCC;
+	height: 200px;
+	float: left;
+	margin-top: 5px;
+}
+#main #左侧 #业界资讯 {
+	float: right;
+	width: 49.5%;
+	border: 2px solid #CCC;
+	height: 200px;
+	margin-top: 5px;
+}
+
+
+
+
+
+
+#main #右侧 {
+	float: left;
+	width: 25%;
+	margin-left: 15px;
+	margin-top: 1%;
+}
+#main #右侧 #常见问题 {
+	border: 2px solid #CCC;
+	float: left;
+	width: 100%;
+}
+#main #右侧 #网友评论 {
+	float: left;
+	margin-top: 1px;
+	border: 2px solid #CCC;
+	width: 100%;
+}
+#main #右侧 #在线调查 {
+	float: left;
+	width: 100%;
+	margin-top: 1px;
+	border: 2px solid #CCC;
+}
+#下 {
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+	background-color: #00CCFF;
+	height: 30px;
+}
